@@ -1,2 +1,2 @@
 # Wallpapers
-Collection of nice walppapers.
+A nice collection of wallpapers.
